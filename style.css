@@ -101,6 +101,14 @@ body
     width : 150px ;
 }
 
+.btn2:hover
+{
+    height : 40px ;
+    width : 155px ;
+    background : rgb(212, 205, 72) ;
+    transition : all 0.3s ease-in-out ;
+}
+
 .btn3
 {
     background : rgb(213, 231, 181) ;
